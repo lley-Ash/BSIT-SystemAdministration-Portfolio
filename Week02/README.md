@@ -4,9 +4,10 @@
 **Program:** Bachelor of Science in Information Technology  
 **Institution:** Laguna State Polytechnic University  
 **Prepared by:** Martinez, Ashley May M.  
-**Section:** BSIT 4E 
+**Section:** BSIT 4E  
 **Date:** August 20, 2026  
-**Project status:** Academic infrastructure proposal - not installed or deployed
+ 
+
 
 ## Project Overview
 
