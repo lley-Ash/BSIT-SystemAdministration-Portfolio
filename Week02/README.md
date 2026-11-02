@@ -9,7 +9,6 @@
 
 
 
-
 ## Project Overview
 
 This project presents a proposed IT infrastructure plan for **ABC Startup Solutions**, a fictional software development startup with **20 employees in one office floor**. The organization has no computers, server, network, internet connectivity or established security policies. As the assigned Junior System Administrator, the objective is to define a realistic starting architecture before equipment purchase.
