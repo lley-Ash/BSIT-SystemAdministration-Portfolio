@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 02 - Enterprise Infrastructure Planning for a Startup Company
 
 **Course:** ITEP 414 - System Administration and Maintenance  
@@ -153,3 +154,7 @@ As a fourth-year Information Technology student beginning to pursue Data Analyti
 Source links, access notes and assumptions are available in [references/Sources.md](references/Sources.md). Relevant references include the official documentation from NIST, CISA, Microsoft, Ubuntu, Oracle, Linux Foundation, Red Hat, AWS, AnyDesk, Globe Business and PLDT Enterprise.
 
 
+=======
+# BSIT-SystemAdministration-Portfolio
+A collection of weekly laboratory activities, documentation, and projects completed in ITEP 414 – System Administration and Maintenance.
+>>>>>>> parent of 87b896b (Week 2)
