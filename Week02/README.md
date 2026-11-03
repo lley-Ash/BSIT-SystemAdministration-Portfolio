@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Week 02 - Enterprise Infrastructure Planning for a Startup Company
 
 **Course:** ITEP 414 - System Administration and Maintenance  
@@ -138,7 +138,7 @@ A flat network would expose confidential departments unnecessarily. The design s
 The organization needs reliable access and recoverable data without immediately buying a large enterprise platform. The plan proposes dual ISP links, UPS-protected equipment, a local NAS and an independent offsite/offline backup copy, with expansion options as the business grows.
 
 
-## Personal Reflection (Draft - Review Before Submission)
+## Personal Reflection
 
 This project helped me understand that system administration begins long before computers, servers, or network devices are installed. I learned how to translate a company's business requirements into a practical infrastructure plan. In the case of ABC Startup Solutions, the four departments have different needs even though they share one office. IT requires reliable development and administrative tools, Human Resources handles confidential employee information, Finance processes sensitive financial records, and Sales depends on fast communication and mobility. Recognizing these differences helped me understand why the same equipment or network permissions should not automatically be assigned to everyone.
 
@@ -153,8 +153,3 @@ As a fourth-year Information Technology student beginning to pursue Data Analyti
 
 Source links, access notes and assumptions are available in [references/Sources.md](references/Sources.md). Relevant references include the official documentation from NIST, CISA, Microsoft, Ubuntu, Oracle, Linux Foundation, Red Hat, AWS, AnyDesk, Globe Business and PLDT Enterprise.
 
-
-=======
-# BSIT-SystemAdministration-Portfolio
-A collection of weekly laboratory activities, documentation, and projects completed in ITEP 414 – System Administration and Maintenance.
->>>>>>> parent of 87b896b (Week 2)
